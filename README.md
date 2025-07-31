@@ -24,20 +24,15 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Pradhan&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveen-Pradhan&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prvncodz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Pradhan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Badges (optional, you can customize or remove) -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Praveen-Pradhan?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Praveen-Pradhan?style=social" alt="GitHub Stars" />
-</p>
 
 ---
 
