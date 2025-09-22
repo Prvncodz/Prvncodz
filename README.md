@@ -1,10 +1,10 @@
 <h1 align="left">💫 About me:</h1>
 
 - Hi 👋, I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
-- 🧩 Solved **50+ DSA problems** on **LeetCode** and counting...
+- Solved **100+ DSA problems** on **LeetCode** and counting...
 - 🧠 Learning:
-  - ✅ C, C++, Python
-  - 🧑‍🎨 HTML, CSS, JavaScript
+  - C, C++, Python
+  - HTML, CSS, JavaScript,NodeJs
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
 - 📱 Currently doing everything on my **phone** using Replit and GitHub mobile.
 ---
@@ -36,8 +36,8 @@
 
 ---
 
-### 🚀 Current Mission:
-> "No PC? No Problem. Excuses don’t build dreams — discipline does."
+### Current Mission:
+> Breaking things and learning by doing
 
 ---
 
