@@ -1,12 +1,12 @@
 <h1 align="left">💫 About me:</h1>
 
-- Hi 👋, I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
+- Hi,I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
 - Solved **100+ DSA problems** on **LeetCode** and counting...
-- 🧠 Learning:
+  - Learnings:
   - C, C++, Python
-  - HTML, CSS, JavaScript,NodeJs
+  - HTML, CSS, JavaScript,MERN stack
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
-- 📱 Currently doing everything on my **phone** using Replit and GitHub mobile.
+
 ---
 
 ### 🛠️ Languages & Tools:
