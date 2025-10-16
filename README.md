@@ -1,4 +1,4 @@
-<h1 align="left">💫 About me:</h1>
+<h1 align="left">About me:</h1>
 
 - Hi,I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
 - Solved **100+ DSA problems** on **LeetCode** and counting...
@@ -6,6 +6,18 @@
   - C, C++, Python
   - HTML, CSS, JavaScript,MERN stack
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -25,22 +37,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prvncodz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
 
 ---
 
