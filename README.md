@@ -1,3 +1,16 @@
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats Card -->
+![Prvncodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=dark&hide_border=true)
+
+<!-- GitHub Streak Stats Card -->
+![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=dark&hide_border=true)
+
+<!-- Top Languages Card -->
+![Prvncodz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=dark&hide_border=true)
+
+---
+
 <h1 align="left">About me:</h1>
 
 - Hi,I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
@@ -6,21 +19,6 @@
   - C, C++, Python
   - HTML, CSS, JavaScript,MERN stack
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true&show_icons=true&ring=1e90ff&fire=1e90ff&currStreakNum=1e90ff&background=0D1117" alt="Praveen-Pradhan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
