@@ -1,15 +1,14 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats Card -->
-![Prvncodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=dark&hide_border=true)
+![Prvncodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true)
 
 <!-- GitHub Streak Stats Card -->
-![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=dark&hide_border=true)
+![Prvncodz's GitHub Streak](https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true)
 
 <!-- Top Languages Card -->
-![Prvncodz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=dark&hide_border=true)
+![Prvncodz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true)
 
----
 
 <h1 align="left">About me:</h1>
 
@@ -20,7 +19,6 @@
   - HTML, CSS, JavaScript,MERN stack
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
 
----
 
 ### 🛠️ Languages & Tools:
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
@@ -39,7 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
 
 ### Current Mission:
 > Breaking things and learning by doing
