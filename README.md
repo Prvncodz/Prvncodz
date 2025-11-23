@@ -14,6 +14,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prvncodz&show_icons=true&theme=github_dark&hide_border=true" alt="Praveen-Pradhan's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true&show_icons=true&ring=1e90ff&fire=1e90ff&currStreakNum=1e90ff&background=0D1117" alt="Praveen-Pradhan's GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvncodz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
