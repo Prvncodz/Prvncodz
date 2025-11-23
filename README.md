@@ -12,13 +12,12 @@
 
 <h1 align="left">About me:</h1>
 
-- Hi,I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
-- Solved **100+ DSA problems** on **LeetCode** and counting...
-  - Learnings:
-  - C, C++, Python
-  - HTML, CSS, JavaScript,MERN stack
-- 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
+- Hi,I'm Praveen,I’m a **Software Engineer** passionate about learning, building, and solving problems with code.
+- Currently i'm diving deep into the MERN stack while contributing to open-source projects, sharpening my DSA skills, and creating real-world web applications.
+- 📩 Always open to learning, collaborating, and sharing knowledge.
 
+
+---
 
 ### 🛠️ Languages & Tools:
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
@@ -41,12 +40,10 @@
 ### Current Mission:
 > Breaking things and learning by doing
 
----
 
 ### 🌐 Connect With Me:
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Praveenp_twt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-pradhan)
 
----
 
