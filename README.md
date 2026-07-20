@@ -24,26 +24,7 @@
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Currently learning :
-- Typescript
-- TanStack Query
-- software design principles
-
-## Stats :
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Prvncodz&theme=github_dark&hide_border=true" height="160" />
-</p>
-
-## Interests :
-
-reading other people's code · occasionally breaking things via issues/PRs
-improving UI/UX instincts · exploring new tools
-
 ---
-
-→ always building. sometimes shipping.
 
 
 ### 🌐 Connect With Me:
